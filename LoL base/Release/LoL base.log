@@ -1,0 +1,15 @@
+﻿  CObject.cpp
+  imgui_impl_dx9.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  imgui_impl_win32.cpp
+  LoL base.cpp
+  stdafx.cpp
+  dllmain.cpp
+  Создание кода
+  915 of 917 functions (99.8%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  LoL base.vcxproj -> C:\Users\Илья\Desktop\lol base update 10.10\Release\LoL base.dll
